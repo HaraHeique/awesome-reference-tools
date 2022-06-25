@@ -7,6 +7,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Logging
 - [serilog](https://github.com/serilog/serilog)
+- [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 
 ## Office
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
