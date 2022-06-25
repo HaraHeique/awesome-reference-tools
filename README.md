@@ -5,6 +5,9 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Bogus](https://github.com/bchavez/Bogus)
 - [AutoBogus](https://github.com/nickdodd79/AutoBogus)
 
+## Logging
+- [serilog](https://github.com/serilog/serilog)
+
 ## Office
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
 - [EPPlus](https://github.com/JanKallman/EPPlus)
