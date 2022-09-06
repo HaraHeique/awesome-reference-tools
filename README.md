@@ -1,6 +1,11 @@
 # Awesome Reference Tools
 Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
+## Background Job Scheduler
+- [Hangfire](https://www.hangfire.io/)
+- [Quartz](https://www.quartz-scheduler.net/)
+- [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
+
 ## Benchmarking
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
@@ -18,6 +23,11 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Dependency Injection
 - [Scrutor](https://github.com/khellang/Scrutor)
 
+## Event/Message Bus
+- [MassTransit](https://github.com/MassTransit/MassTransit)
+- [CAP](https://github.com/dotnetcore/CAP)
+- [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ)
+
 ## JSON Processing
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 - [System.Text.Json](https://docs.microsoft.com/pt-br/dotnet/api/system.text.json?view=net-6.0)
@@ -32,18 +42,10 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Mediator Pattern
 - [MediatR](https://github.com/jbogard/MediatR)
 
-## Mocking and Stubbing API HTTP Requests/Reponses
-- [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
-
 ## Office
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
 - [EPPlus](https://github.com/JanKallman/EPPlus)
 - [mpxj](https://github.com/joniles/mpxj)
-
-## Queue and Messaging
-- [MassTransit](https://github.com/MassTransit/MassTransit)
-- [CAP](https://github.com/dotnetcore/CAP)
-- [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ)
 
 ## Resilience and Fault Handling
 - [Polly](https://github.com/App-vNext/Polly)
@@ -60,10 +62,9 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
 - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
 - [testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)
+- [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
 
-## Validation
+## Validation and Results
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation)
 - [FluentResults](https://github.com/altmann/FluentResults)
 - [GuardClauses](https://github.com/ardalis/GuardClauses)
-
-
