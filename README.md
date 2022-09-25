@@ -35,6 +35,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Logging
 - [serilog](https://github.com/serilog/serilog)
 - [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
+- [Castle Core](https://github.com/castleproject/Core)
 
 ## Mapping Objects
 - [AutoMapper](https://github.com/AutoMapper/AutoMapper)
