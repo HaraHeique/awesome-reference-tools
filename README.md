@@ -48,6 +48,10 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [EPPlus](https://github.com/JanKallman/EPPlus)
 - [mpxj](https://github.com/joniles/mpxj)
 
+## REPR (Request-Endpoint-Response) Pattern
+- [ApiEndpoints](https://github.com/ardalis/apiendpoints)
+- [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints)
+
 ## Resilience and Fault Handling
 - [Polly](https://github.com/App-vNext/Polly)
 
