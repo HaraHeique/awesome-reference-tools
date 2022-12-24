@@ -28,6 +28,10 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [CAP](https://github.com/dotnetcore/CAP)
 - [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ)
 
+## Http Client Communication
+- [refit](https://github.com/reactiveui/refit)
+- [Flurl](https://github.com/tmenier/Flurl)
+
 ## JSON Processing
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 - [System.Text.Json](https://docs.microsoft.com/pt-br/dotnet/api/system.text.json?view=net-6.0)
@@ -55,9 +59,12 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Resilience and Fault Handling
 - [Polly](https://github.com/App-vNext/Polly)
 
-## Http Client Communication
-- [refit](https://github.com/reactiveui/refit)
-- [Flurl](https://github.com/tmenier/Flurl)
+## Security
+- [Identity](https://github.com/dotnet/aspnetcore/tree/main/src/Identity)
+- NetDevPack:
+  - [Security.Identity](https://github.com/NetDevPack/Security.Identity)
+  - [Security.Jwt](https://github.com/NetDevPack/Security.Jwt)
+  - [Security.PasswordHasher](https://github.com/NetDevPack/Security.PasswordHasher)
 
 ## Testing and Mocking
 - [xunit](https://github.com/xunit/xunit)
