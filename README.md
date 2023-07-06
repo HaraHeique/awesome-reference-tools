@@ -1,6 +1,9 @@
 # Awesome Reference Tools
 Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
+## Versioning
+- [Microsoft.Versioning](https://github.com/dotnet/aspnet-api-versioning)
+
 ## Background Job Scheduler
 - [Hangfire](https://www.hangfire.io/)
 - [Quartz](https://www.quartz-scheduler.net/)
@@ -80,4 +83,5 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Validation and Results
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation)
 - [FluentResults](https://github.com/altmann/FluentResults)
+- [Language-Ext](https://github.com/louthy/language-ext): Possui o Either<L,R>
 - [GuardClauses](https://github.com/ardalis/GuardClauses)
