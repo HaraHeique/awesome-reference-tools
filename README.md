@@ -52,6 +52,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Office
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
+- [RecordParser](https://github.com/leandromoh/RecordParser)
 - [EPPlus](https://github.com/JanKallman/EPPlus)
 - [mpxj](https://github.com/joniles/mpxj)
 
