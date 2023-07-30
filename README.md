@@ -54,6 +54,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
 - [RecordParser](https://github.com/leandromoh/RecordParser)
 - [EPPlus](https://github.com/JanKallman/EPPlus)
+- [ClosedXML](https://github.com/ClosedXML/ClosedXML)
 - [mpxj](https://github.com/joniles/mpxj)
 
 ## REPR (Request-Endpoint-Response) Pattern
