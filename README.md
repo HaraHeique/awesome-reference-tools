@@ -26,10 +26,12 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Dependency Injection
 - [Scrutor](https://github.com/khellang/Scrutor)
 
-## Event/Message Bus
+## Event/Message & Service Bus
 - [MassTransit](https://github.com/MassTransit/MassTransit)
 - [CAP](https://github.com/dotnetcore/CAP)
 - [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ)
+- [Rebus](https://github.com/rebus-org/Rebus)
+- [NServiceBus](https://github.com/Particular/NServiceBus)
 
 ## Http Client Communication
 - [refit](https://github.com/reactiveui/refit)
