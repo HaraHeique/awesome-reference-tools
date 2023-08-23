@@ -78,6 +78,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [nunit](https://github.com/nunit/nunit)
 - [FluentAssertions](https://github.com/fluentassertions/fluentassertions)
 - [moq](https://github.com/moq/moq4)
+- [AutoMocker](https://github.com/moq/Moq.AutoMocker)
 - [MockQueryable](https://github.com/romantitov/MockQueryable)
 - [NSubstitute](https://github.com/nsubstitute/NSubstitute)
 - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
