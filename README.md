@@ -58,6 +58,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [EPPlus](https://github.com/JanKallman/EPPlus)
 - [ClosedXML](https://github.com/ClosedXML/ClosedXML)
 - [mpxj](https://github.com/joniles/mpxj)
+- [CsvHelper](https://github.com/JoshClose/CsvHelper)
 
 ## REPR (Request-Endpoint-Response) Pattern
 - [ApiEndpoints](https://github.com/ardalis/apiendpoints)
