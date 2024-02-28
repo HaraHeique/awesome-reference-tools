@@ -90,6 +90,12 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
   - [Security.Identity](https://github.com/NetDevPack/Security.Identity)
   - [Security.Jwt](https://github.com/NetDevPack/Security.Jwt)
   - [Security.PasswordHasher](https://github.com/NetDevPack/Security.PasswordHasher)
+ 
+## Software Designer Architecture Tools
+- [C4 Model](https://c4model.com)
+- [Draw.Io](https://www.drawio.com)
+- [FigJam](https://www.figma.com/figjam/)
+- [Astah](https://astah.net/downloads/)
 
 ## Testing and Mocking
 - [xunit](https://github.com/xunit/xunit)
