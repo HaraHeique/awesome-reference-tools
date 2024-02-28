@@ -1,16 +1,15 @@
 # Awesome Reference Tools
 Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
-## Versioning
-- [Microsoft.Versioning](https://github.com/dotnet/aspnet-api-versioning)
-
 ## Background Job Scheduler
 - [Hangfire](https://www.hangfire.io/)
 - [Quartz](https://www.quartz-scheduler.net/)
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
+- [Coravel](https://github.com/jamesmh/coravel)
 
-## Benchmarking
-- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+## Caching
+- [Coravel](https://github.com/jamesmh/coravel)
+- [Redis](https://github.com/redis/redis)
 
 ## Data Access
 - [efcore](https://github.com/dotnet/efcore)
@@ -32,6 +31,9 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ)
 - [Rebus](https://github.com/rebus-org/Rebus)
 - [NServiceBus](https://github.com/Particular/NServiceBus)
+- [Redis](https://github.com/redis/redis)
+- [Coravel](https://github.com/jamesmh/coravel)
+- [Wolverine](https://github.com/JasperFx/wolverine)
 
 ## Http Client Communication
 - [refit](https://github.com/reactiveui/refit)
@@ -49,10 +51,19 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Mapping Objects
 - [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
+## Mailing
+- [Coravel](https://github.com/jamesmh/coravel)
+
 ## Mediator Pattern
 - [MediatR](https://github.com/jbogard/MediatR)
+- [Wolverine](https://github.com/JasperFx/wolverine)
 
-## Office
+## Metrics and Benchmarking
+- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+- [Fody.MethodTimer](https://github.com/Fody/MethodTimer)
+- [Rin](https://github.com/mayuki/Rin)
+
+## Office & Reports
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
 - [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)
 - [RecordParser](https://github.com/leandromoh/RecordParser)
@@ -60,6 +71,11 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [ClosedXML](https://github.com/ClosedXML/ClosedXML)
 - [mpxj](https://github.com/joniles/mpxj)
 - [CsvHelper](https://github.com/JoshClose/CsvHelper)
+- [QuestPdf](https://github.com/QuestPDF/QuestPDF)
+- [IronPdf](https://github.com/IronPdf/Iron-Pdf-Documentation)
+- [JsReport](https://github.com/jsreport/jsreport)
+- [BoldReports](https://github.com/boldreports)
+- [FastReport](https://github.com/FastReports/FastReport)
 
 ## REPR (Request-Endpoint-Response) Pattern
 - [ApiEndpoints](https://github.com/ardalis/apiendpoints)
@@ -86,9 +102,13 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy)
 - [testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)
 - [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
+- [K6](https://k6.io/docs/)
 
 ## Validation and Results
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation)
 - [FluentResults](https://github.com/altmann/FluentResults)
 - [Language-Ext](https://github.com/louthy/language-ext): Possui o Either<L,R>
 - [GuardClauses](https://github.com/ardalis/GuardClauses)
+
+## Versioning
+- [Microsoft.Versioning](https://github.com/dotnet/aspnet-api-versioning)
