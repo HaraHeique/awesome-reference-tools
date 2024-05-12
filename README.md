@@ -1,7 +1,7 @@
 # Awesome Reference Tools
 Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
-## Background Job Scheduler
+## Background Job Processing & Scheduler
 - [Hangfire](https://www.hangfire.io/)
 - [Quartz](https://www.quartz-scheduler.net/)
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
@@ -13,8 +13,8 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Data Access
 - [efcore](https://github.com/dotnet/efcore)
-- [ef6](https://github.com/dotnet/ef6)
 - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)
+- [Z.EntityFramework.Extensions.EFCore](https://github.com/zzzprojects/EntityFramework-Extensions?tab=readme-ov-file)
 - [Dapper](https://github.com/DapperLib/Dapper)
 
 ## Data Generator (Fakers)
@@ -43,8 +43,11 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 - [System.Text.Json](https://docs.microsoft.com/pt-br/dotnet/api/system.text.json?view=net-6.0)
 
+## Linq
+- [SimdLinq](https://github.com/Cysharp/SimdLinq)
+
 ## Logging
-- [serilog](https://github.com/serilog/serilog)
+- [serilog](https://github.com/serilog/serilog): OBS.: o Sink do SEQ eh bem compativel
 - [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 - [Castle Core](https://github.com/castleproject/Core)
 
@@ -56,12 +59,18 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Mediator Pattern
 - [MediatR](https://github.com/jbogard/MediatR)
+- [Mediator](https://github.com/martinothamar/Mediator): Melhoria do MediatR
 - [Wolverine](https://github.com/JasperFx/wolverine)
 
 ## Metrics and Benchmarking
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 - [Fody.MethodTimer](https://github.com/Fody/MethodTimer)
 - [Rin](https://github.com/mayuki/Rin)
+
+## Observability (Metrics + Logs + Traces)
+- [OpenTelemetry](https://github.com/open-telemetry): framework fornece abstracao padrao para gerar, coletar e expor metrics, logs (regulares) e traces
+  - [OpenTelemetry.Instrumentation](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation)
+- [Health checks](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-8.0)
 
 ## Office & Reports
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
@@ -77,12 +86,19 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [BoldReports](https://github.com/boldreports)
 - [FastReport](https://github.com/FastReports/FastReport)
 
+## Real-time communication
+- [Signal-R](https://github.com/SignalR/SignalR)
+
 ## REPR (Request-Endpoint-Response) Pattern
 - [ApiEndpoints](https://github.com/ardalis/apiendpoints)
 - [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints)
 
 ## Resilience and Fault Handling
 - [Polly](https://github.com/App-vNext/Polly)
+
+## Results Objects Pattern
+- [FluentResults](https://github.com/altmann/FluentResults)
+- [Language-Ext](https://github.com/louthy/language-ext): Possui o Either<L,R> (paradigma funcional)
 
 ## Security
 - [Identity](https://github.com/dotnet/aspnetcore/tree/main/src/Identity)
@@ -110,11 +126,13 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
 - [K6](https://k6.io/docs/)
 
-## Validation and Results
+## Validation
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation)
-- [FluentResults](https://github.com/altmann/FluentResults)
-- [Language-Ext](https://github.com/louthy/language-ext): Possui o Either<L,R>
 - [GuardClauses](https://github.com/ardalis/GuardClauses)
 
 ## Versioning
 - [Microsoft.Versioning](https://github.com/dotnet/aspnet-api-versioning)
+
+## Others
+- [Aspirate](https://github.com/prom3theu5/aspirational-manifests/tree/main)
+- [UploadStream](https://github.com/ma1f/uploadstream?tab=readme-ov-file)
