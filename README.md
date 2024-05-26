@@ -47,7 +47,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [SimdLinq](https://github.com/Cysharp/SimdLinq)
 
 ## Logging
-- [serilog](https://github.com/serilog/serilog): OBS.: o Sink do SEQ eh bem compativel
+- [serilog](https://github.com/serilog/serilog): OBS.: o Sink do SEQ é bem compativel
 - [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)
 - [Castle Core](https://github.com/castleproject/Core)
 
@@ -68,7 +68,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Rin](https://github.com/mayuki/Rin)
 
 ## Observability (Metrics + Logs + Traces)
-- [OpenTelemetry](https://github.com/open-telemetry): framework fornece abstracao padrao para gerar, coletar e expor metrics, logs (regulares) e traces
+- [OpenTelemetry](https://github.com/open-telemetry): framework que fornece abstração padrão para gerar, coletar e expor dados de observabilidade (metrics, logs (regulares) e traces)
   - [OpenTelemetry.Instrumentation](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation)
 - [Health checks](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-8.0)
 
@@ -106,6 +106,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
   - [Security.Identity](https://github.com/NetDevPack/Security.Identity)
   - [Security.Jwt](https://github.com/NetDevPack/Security.Jwt)
   - [Security.PasswordHasher](https://github.com/NetDevPack/Security.PasswordHasher)
+- [hashids.net](https://github.com/ullmark/hashids.net)
  
 ## Software Designer Architecture Tools
 - [C4 Model](https://c4model.com)
