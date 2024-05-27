@@ -1,6 +1,10 @@
 # Awesome Reference Tools
 Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core).
 
+## AOP (Aspect Oriented Programming)
+- [dynamicproxy](https://www.castleproject.org/projects/dynamicproxy)
+- [aspect-injector](https://github.com/pamidur/aspect-injector)
+
 ## Background Job Processing & Scheduler
 - [Hangfire](https://www.hangfire.io/)
 - [Quartz](https://www.quartz-scheduler.net/)
