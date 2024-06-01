@@ -15,6 +15,9 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Coravel](https://github.com/jamesmh/coravel)
 - [Redis](https://github.com/redis/redis)
 
+## Concurrent Programming
+- [DistributedLock](https://github.com/madelson/DistributedLock)
+
 ## Data Access
 - [efcore](https://github.com/dotnet/efcore)
 - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)
@@ -28,6 +31,9 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Dependency Injection
 - [Scrutor](https://github.com/khellang/Scrutor)
+
+## Dev Roadmap
+- [ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 
 ## Event/Message & Service Bus
 - [MassTransit](https://github.com/MassTransit/MassTransit)
@@ -66,15 +72,15 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Mediator](https://github.com/martinothamar/Mediator): Melhoria do MediatR
 - [Wolverine](https://github.com/JasperFx/wolverine)
 
-## Metrics and Benchmarking
+## Benchmarking
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
-- [Fody.MethodTimer](https://github.com/Fody/MethodTimer)
-- [Rin](https://github.com/mayuki/Rin)
 
 ## Observability (Metrics + Logs + Traces)
 - [OpenTelemetry](https://github.com/open-telemetry): framework que fornece abstração padrão para gerar, coletar e expor dados de observabilidade (metrics, logs (regulares) e traces)
   - [OpenTelemetry.Instrumentation](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation)
 - [Health checks](https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-8.0)
+- [Fody.MethodTimer](https://github.com/Fody/MethodTimer)
+- [Rin](https://github.com/mayuki/Rin)
 
 ## Office & Reports
 - [MiniExcel](https://github.com/MiniExcel/MiniExcel)
