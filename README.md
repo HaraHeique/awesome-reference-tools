@@ -23,6 +23,8 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)
 - [Z.EntityFramework.Extensions.EFCore](https://github.com/zzzprojects/EntityFramework-Extensions?tab=readme-ov-file)
 - [Dapper](https://github.com/DapperLib/Dapper)
+- [DbUp](https://github.com/DbUp/DbUp)
+- [Ulid](https://github.com/Cysharp/Ulid): Alternativo ao GUID, pois é ordenável e não fragmenta o disco do banco devido os índices!
 
 ## Data Generator (Fakers)
 - [Bogus](https://github.com/bchavez/Bogus)
@@ -44,6 +46,9 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Redis](https://github.com/redis/redis)
 - [Coravel](https://github.com/jamesmh/coravel)
 - [Wolverine](https://github.com/JasperFx/wolverine)
+
+## Feature Flags
+- [FeatureManagement-Dotnet](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core)
 
 ## Http Client Communication
 - [refit](https://github.com/reactiveui/refit)
@@ -106,9 +111,13 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Resilience and Fault Handling
 - [Polly](https://github.com/App-vNext/Polly)
 
-## Results Objects Pattern
+## Results Objects Pattern (Discriminate Unions + Functional Programming)
 - [FluentResults](https://github.com/altmann/FluentResults)
 - [Language-Ext](https://github.com/louthy/language-ext): Possui o Either<L,R> (paradigma funcional)
+- [OneOf](https://github.com/mcintyre321/OneOf)
+- [Result](https://github.com/ardalis/Result)
+- [error-or](https://github.com/amantinband/error-or)
+- [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)
 
 ## Security
 - [Identity](https://github.com/dotnet/aspnetcore/tree/main/src/Identity)
