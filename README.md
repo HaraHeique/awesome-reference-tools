@@ -17,6 +17,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Concurrent Programming
 - [DistributedLock](https://github.com/madelson/DistributedLock)
+- [RedLock.net](https://github.com/samcook/RedLock.net)
 
 ## Data Access
 - [efcore](https://github.com/dotnet/efcore)
@@ -51,6 +52,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [FeatureManagement-Dotnet](https://learn.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core)
 
 ## Http Client Communication
+- [System.Net.HttpClient](https://www.milanjovanovic.tech/blog/the-right-way-to-use-httpclient-in-dotnet)
 - [refit](https://github.com/reactiveui/refit)
 - [Flurl](https://github.com/tmenier/Flurl)
 
@@ -71,6 +73,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Mailing
 - [Coravel](https://github.com/jamesmh/coravel)
+- [FluentEmail](https://github.com/lukencode/FluentEmail)
 
 ## Mediator Pattern
 - [MediatR](https://github.com/jbogard/MediatR)
@@ -100,6 +103,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [JsReport](https://github.com/jsreport/jsreport)
 - [BoldReports](https://github.com/boldreports)
 - [FastReport](https://github.com/FastReports/FastReport)
+- [Microsoft.AspNetCore.Components.Web](https://www.youtube.com/watch?v=BMnjwz-u-9Y): Possibilidade de gerar PDFs usando próprios recursos do .NET gratuitamente
 
 ## Real-time communication
 - [Signal-R](https://github.com/SignalR/SignalR)
