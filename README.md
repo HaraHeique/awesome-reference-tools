@@ -12,8 +12,9 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Coravel](https://github.com/jamesmh/coravel)
 
 ## Caching
-- [Coravel](https://github.com/jamesmh/coravel)
 - [Redis](https://github.com/redis/redis)
+- [Coravel](https://github.com/jamesmh/coravel)
+- [Microsoft.AspNetCore.OutputCaching](https://www.youtube.com/watch?v=BMXgJxSaDSo)
 
 ## Concurrent Programming
 - [DistributedLock](https://github.com/madelson/DistributedLock)
@@ -21,6 +22,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Data Access
 - [efcore](https://github.com/dotnet/efcore)
+- [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions)
 - [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)
 - [Z.EntityFramework.Extensions.EFCore](https://github.com/zzzprojects/EntityFramework-Extensions?tab=readme-ov-file)
 - [Dapper](https://github.com/DapperLib/Dapper)
@@ -80,6 +82,11 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Mediator](https://github.com/martinothamar/Mediator): Melhoria do MediatR
 - [Wolverine](https://github.com/JasperFx/wolverine)
 
+## Notebooks
+- [briefer](https://github.com/briefercloud/briefer)
+- [jupyter](https://jupyter.org/)
+- [csharp-notebooks](https://github.com/dotnet/csharp-notebooks)
+
 ## Benchmarking
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
@@ -136,6 +143,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Draw.Io](https://www.drawio.com)
 - [FigJam](https://www.figma.com/figjam/)
 - [Astah](https://astah.net/downloads/)
+- [Excalidraw](https://excalidraw.com/)
 
 ## Testing and Mocking
 - [xunit](https://github.com/xunit/xunit)
