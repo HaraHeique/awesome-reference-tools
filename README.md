@@ -148,6 +148,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Testing and Mocking
 - [xunit](https://github.com/xunit/xunit)
 - [nunit](https://github.com/nunit/nunit)
+- [TUnit](https://github.com/thomhurst/TUnit)
 - [FluentAssertions](https://github.com/fluentassertions/fluentassertions)
 - [moq](https://github.com/moq/moq4)
 - [AutoMocker](https://github.com/moq/Moq.AutoMocker)
