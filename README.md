@@ -5,6 +5,10 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [dynamicproxy](https://www.castleproject.org/projects/dynamicproxy)
 - [aspect-injector](https://github.com/pamidur/aspect-injector)
 
+## API Docs
+- [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
+- [AspNetCore.Scalar](https://github.com/scalar/scalar/blob/main/packages/scalar.aspnetcore/README.md)
+
 ## Background Job Processing & Scheduler
 - [Hangfire](https://www.hangfire.io/)
 - [Quartz](https://www.quartz-scheduler.net/)
