@@ -24,6 +24,10 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [DistributedLock](https://github.com/madelson/DistributedLock)
 - [RedLock.net](https://github.com/samcook/RedLock.net)
 
+## Console UI
+- [Sharprompt](https://github.com/shibayan/Sharprompt)
+- [spectre.console](https://github.com/spectreconsole/spectre.console)
+
 ## Data Access
 - [efcore](https://github.com/dotnet/efcore)
 - [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions)
