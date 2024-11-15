@@ -166,6 +166,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)
 - [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)
 - [K6](https://k6.io/docs/)
+- [Verify](https://github.com/VerifyTests/Verify)
 
 ## Validation
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation)
