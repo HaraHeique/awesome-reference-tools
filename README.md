@@ -179,3 +179,4 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Aspirate](https://github.com/prom3theu5/aspirational-manifests/tree/main)
 - [UploadStream](https://github.com/ma1f/uploadstream?tab=readme-ov-file)
 - [UnitsNet](https://github.com/angularsen/UnitsNet)
+- [Delta](https://github.com/SimonCropp/Delta)
