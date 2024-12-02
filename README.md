@@ -97,6 +97,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Benchmarking
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+- [Ultra](https://github.com/xoofx/ultra)
 
 ## Observability (Metrics + Logs + Traces)
 - [OpenTelemetry](https://github.com/open-telemetry): framework que fornece abstração padrão para gerar, coletar e expor dados de observabilidade (metrics, logs (regulares) e traces)
