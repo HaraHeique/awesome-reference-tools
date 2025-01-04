@@ -36,6 +36,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Dapper](https://github.com/DapperLib/Dapper)
 - [DbUp](https://github.com/DbUp/DbUp)
 - [Ulid](https://github.com/Cysharp/Ulid): Alternativo ao GUID, pois é ordenável e não fragmenta o disco do banco devido os índices!
+- [InterpolatedSql](https://github.com/Drizin/InterpolatedSql)
 
 ## Data Generator (Fakers)
 - [Bogus](https://github.com/bchavez/Bogus)
