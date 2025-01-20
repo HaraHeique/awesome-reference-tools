@@ -160,6 +160,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [nunit](https://github.com/nunit/nunit)
 - [TUnit](https://github.com/thomhurst/TUnit)
 - [FluentAssertions](https://github.com/fluentassertions/fluentassertions)
+- [shouldly](https://github.com/shouldly/shouldly): Melhor alternativa ao FluentAssertions que agora é pago!
 - [moq](https://github.com/moq/moq4)
 - [AutoMocker](https://github.com/moq/Moq.AutoMocker)
 - [MockQueryable](https://github.com/romantitov/MockQueryable)
