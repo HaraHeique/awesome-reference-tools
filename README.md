@@ -19,6 +19,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Redis](https://github.com/redis/redis)
 - [Coravel](https://github.com/jamesmh/coravel)
 - [Microsoft.AspNetCore.OutputCaching](https://www.youtube.com/watch?v=BMXgJxSaDSo)
+- [FusionCache](https://github.com/ZiggyCreatures/FusionCache)
 
 ## Concurrent Programming
 - [DistributedLock](https://github.com/madelson/DistributedLock)
