@@ -155,6 +155,14 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [FigJam](https://www.figma.com/figjam/)
 - [Astah](https://astah.net/downloads/)
 - [Excalidraw](https://excalidraw.com/)
+- [Miro](https://miro.com/pt/)
+- [LucidChart](https://www.lucidchart.com/pages/pt)
+- [IcePanel](https://icepanel.io/)
+- [Eraser](https://www.eraser.io/?r=0)
+- [Structurizr](https://structurizr.com/)
+- [PlantUML](https://plantuml.com/)
+- [D2](https://d2lang.com/)
+- [Mermaid](https://mermaid.js.org/)
 
 ## Testing and Mocking
 - [xunit](https://github.com/xunit/xunit)
