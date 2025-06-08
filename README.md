@@ -74,6 +74,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 
 ## Linq
 - [SimdLinq](https://github.com/Cysharp/SimdLinq)
+- [ZLinq](https://github.com/Cysharp/ZLinq)
 
 ## Logging
 - [serilog](https://github.com/serilog/serilog): OBS.: o Sink do SEQ é bem compativel
