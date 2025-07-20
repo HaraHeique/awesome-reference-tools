@@ -122,6 +122,8 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [JsReport](https://github.com/jsreport/jsreport)
 - [BoldReports](https://github.com/boldreports)
 - [FastReport](https://github.com/FastReports/FastReport)
+- [HandleBars.NET](https://github.com/Handlebars-Net/Handlebars.Net)
+- [puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp)
 - [Microsoft.AspNetCore.Components.Web](https://www.youtube.com/watch?v=BMnjwz-u-9Y): Possibilidade de gerar PDFs usando próprios recursos do .NET gratuitamente
 
 ## Real-time communication
