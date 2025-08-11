@@ -14,6 +14,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Quartz](https://www.quartz-scheduler.net/)
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)
 - [Coravel](https://github.com/jamesmh/coravel)
+- [TickerQ](https://github.com/Arcenox-co/TickerQ)
 
 ## Caching
 - [Redis](https://github.com/redis/redis)
