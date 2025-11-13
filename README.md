@@ -29,6 +29,7 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Console UI
 - [Sharprompt](https://github.com/shibayan/Sharprompt)
 - [spectre.console](https://github.com/spectreconsole/spectre.console)
+- [RazonConsole](https://github.com/LittleLittleCloud/RazorConsole)
 
 ## Data Access
 - [efcore](https://github.com/dotnet/efcore)
@@ -88,10 +89,13 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 ## Mailing
 - [Coravel](https://github.com/jamesmh/coravel)
 - [FluentEmail](https://github.com/lukencode/FluentEmail)
+- [mailpit](https://github.com/axllent/mailpit)
+- [mjml](https://github.com/mjmlio/mjml)
 
 ## Mediator Pattern
 - [MediatR](https://github.com/jbogard/MediatR)
 - [Mediator](https://github.com/martinothamar/Mediator): Melhoria do MediatR
+- [SimpleMediator](https://github.com/NetDevPack/SimpleMediator): Versão não paga do Desenvolvedor.IO
 - [Wolverine](https://github.com/JasperFx/wolverine)
 
 ## Notebooks
@@ -196,5 +200,6 @@ Inspired by [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-c
 - [Aspirate](https://github.com/prom3theu5/aspirational-manifests/tree/main)
 - [UploadStream](https://github.com/ma1f/uploadstream?tab=readme-ov-file)
 - [UnitsNet](https://github.com/angularsen/UnitsNet)
+- [NetDevPack](https://github.com/NetDevPack): Mediator free implementation, Security packages, Utilities and so on
 - [Delta](https://github.com/SimonCropp/Delta)
 - [Replicant](https://github.com/SimonCropp/Replicant)
